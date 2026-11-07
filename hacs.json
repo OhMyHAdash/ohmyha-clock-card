@@ -1,0 +1,5 @@
+{
+  "name": "OhMyHA Clock",
+  "filename": "ohmyha-clock-card.js",
+  "homeassistant": "2024.8.0"
+}
