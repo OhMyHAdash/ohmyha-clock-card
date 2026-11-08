@@ -3,7 +3,7 @@
  * A glowing clock + greeting tile for Home Assistant dashboards.
  * Free, MIT licence. Made by OhMyHA — https://ohmyha.com
  */
-const VERSION = "1.0.0";
+const VERSION = "1.0.1";
 
 const GREETINGS = {
   fr: ["Bonne nuit", "Bonjour", "Bon après-midi", "Bonsoir"],
